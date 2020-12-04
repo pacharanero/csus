@@ -1,7 +1,9 @@
 # Clinical Software Usability Scale (cSUS)
 
 ## Methodology
-* Following the pattern established by the scoring of the established, pan-industry, Systems Usability Scale (SUS) 8, the questions are scored against a 5-point scale Agree Strongly - Agree - Don’t Know - Disagree - Disagree Strongly
+* Following the pattern established by the scoring of the established, pan-industry, Systems Usability Scale (SUS) 8, the questions are scored against a 5-point scale:
+
+> Agree Strongly - Agree - Don’t Know - Disagree - Disagree Strongly
 
 * The ‘axis’ of the questions is alternated in order to try to vary the ‘positive’ or ‘negative’ attitude that the question could be seen to have.
 
@@ -9,15 +11,15 @@
 
 ## The Clinical Software Usability Survey questions are:
 
-1. In my opinion, the software reduces the risk of clinical error. (positive)
+1. **In my opinion, the software reduces the risk of clinical error**. (positive)
 
-1. Effective support for this software is hard to access in a clinically-appropriate timescale. (negative)
+1. **Effective support for this software is hard to access in a clinically-appropriate timescale**. (negative)
 
-1. In my opinion, the software improves the quality of clinical care I can provide. (positive)
+1. **In my opinion, the software improves the quality of clinical care I can provide**. (positive)
 
-1. The quality of the interaction/consultation with the patient is adversely affected by the use of this software. (negative)
+1. **The quality of the interaction/consultation with the patient is adversely affected by the use of this software**. (negative)
 
-1. Using the software gives me the key information I need on patient’s history, diagnosed conditions and current care and treatment plan. (positive)
+1. **Using the software gives me the key information I need on patient’s history, diagnosed conditions and current care and treatment plan**. (positive)
 
 ## Notes
 * Each question scores from 0 to 4 points, where 0 signifies a trait of the least usable system and 4 signifies a trait of the most usable system. Clearly, because the ‘axis’ of the questions is alternated, the mathematics of the scoring must be alternated too. It makes the scoring a little bit complicated, again this is how it’s done is the SUS so we followed suit.
